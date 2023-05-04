@@ -1,7 +1,7 @@
 # Setup
 title:               Raquib Khan Lavani
 tagline:             'Software @UAlberta'
-description:         'Check out my <a href="https://www.linkedin.com/in/lavani/" target="_blank">Linkedin</a>.'
+description:         'Check out my <a href="https://www.google.com/" target="_blank">Linkedin</a>.'
 url:                 https://raquibk.github.io
 baseurl:             ''
 paginate:            5
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Raquib Khan Lavani
-  url:               https://www.linkedin.com/in/lavani/
+  url:               https://www.google.com/
   email:             lavani@ualberta.ca
 
 # Gems
